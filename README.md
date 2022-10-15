@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielprince89
 - 👀 I’m interested in FinTech, Crypto development
-- 🌱 I’m currently learning front end development and back end development
+- 🌱 I'm a community guy who loves to connect with other fellow developers on Twitter and Discord.
 - 💞️ I’m looking to collaborate on crypto product management and fintech product management
 - 📫 How to reach me 
 
